@@ -1,2 +1,1 @@
-# my-first-repo
-study github
+"# My Project"
